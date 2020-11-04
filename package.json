@@ -1,6 +1,6 @@
 {
   "name": "denil-wrap-with-poo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is sample npm package I created",
   "main": "index.js",
   "scripts": {
